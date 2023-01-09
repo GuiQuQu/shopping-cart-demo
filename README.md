@@ -1,3 +1,5 @@
+# 项目来源: [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
+
 # 检查 `create-react-app` 安装的包
 
 `package.json`里面有的包一个定两,东西非常多,绝对不止这些
