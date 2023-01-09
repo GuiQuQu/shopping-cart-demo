@@ -1,4 +1,6 @@
-# 项目来源: [jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
+# 项目来源
+
+[jeffersonRibeiro/react-shopping-cart](https://github.com/jeffersonRibeiro/react-shopping-cart)
 
 # 检查 `create-react-app` 安装的包
 
