@@ -1,0 +1,19 @@
+{
+    "data": {
+        "products": [
+            {
+                "availableSizes": ["X","L"],
+                "currencyFormat": "￥",
+                "currencyType": "CNY",
+                "description": "14/15 s/nº",
+                "id": 0,
+                "installments": 9,
+                "isFreeShipping": true,
+                "price": 100.10,
+                "sku": 8552515751438644,
+                "style": "白色T恤",
+                "title": "Cropped Stay Groovy off white"
+            }
+        ]
+    }
+}
